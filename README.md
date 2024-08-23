@@ -2,6 +2,8 @@
 
 **Live Site:** [Shop Ease](https://shopease-j.web.app/)
 
+# Server-Side: [Server Side](https://github.com/Rakesh01999/ShopEase-server)
+
 ## Overview
 
 The primary purpose of this site is to provide users with a seamless and efficient shopping experience. It allows users to explore a wide range of products, apply various filters, and sort options to find exactly what they need. Additionally, it offers a secure and user-friendly platform for account creation, login, and social media sign-in, ensuring a personalized shopping journey. The site aims to make online shopping easy, accessible, and enjoyable for all users.
