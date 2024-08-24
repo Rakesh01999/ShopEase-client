@@ -2,7 +2,6 @@
 
 **Live Site:** [Shop Ease](https://shopease-j.web.app/)
 
-
 # Server-Side: 
 [Server Side](https://github.com/Rakesh01999/ShopEase-server)
 
